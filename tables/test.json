@@ -1,0 +1,515 @@
+[
+  {
+    "checkId": 159075721,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T23:55:39.147",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 892.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075640,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T23:54:23.807",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 122.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075589,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:50:02.403",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 49.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075588,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:47:00.607",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 234.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075287,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:30:52.883",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 171.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075108,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T23:24:31.86",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 97.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075036,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T23:21:47.157",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 529.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159075081,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:20:57.427",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 220.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074870,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T23:10:23.503",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 361.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074869,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:08:22.95",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 40.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074621,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:06:02.25",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 76.14,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074542,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T23:04:18.167",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 380.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074620,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T23:00:55.783",
+    "sumQuantity": 5.00000,
+    "sumRoznWNDS": 40.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074496,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:57:24.71",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 27.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074484,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:56:14.173",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 292.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073970,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:48:23.83",
+    "sumQuantity": 2.00000,
+    "sumRoznWNDS": 32.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159074162,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:47:45.763",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 55.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073959,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:42:54.79",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 71.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073957,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:41:07.137",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 169.10,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073526,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:40:34.59",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 122.50,
+    "posCount": 2
+  },
+  {
+    "checkId": 159073526,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:40:34.59",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 939.00,
+    "posCount": 2
+  },
+  {
+    "checkId": 159073935,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:39:58.477",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 181.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073951,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:39:18.973",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 327.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073533,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:38:51.503",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 73.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073525,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:29:17.883",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 279.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073520,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:28:40.703",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 122.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073276,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:26:41.667",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 98.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073290,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:26:20.607",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 220.40,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073275,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:25:24.12",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 17.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073273,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:23:30.537",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 116.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159073271,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:22:10.333",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 463.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072582,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:18:50.987",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 556.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072807,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:13:50.59",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 131.10,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072581,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:13:18.39",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 162.75,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072816,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:12:41.117",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 406.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072326,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:11:42.247",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 353.40,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072327,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:10:58.62",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 95.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072577,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:10:28.1",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 67.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072324,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:09:59.16",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 460.27,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072569,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:09:18.4",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 72.50,
+    "posCount": 2
+  },
+  {
+    "checkId": 159072569,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:09:18.4",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 21.50,
+    "posCount": 2
+  },
+  {
+    "checkId": 159072030,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:08:23.837",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 1001.61,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072568,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:08:12.487",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 33.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072330,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T22:07:28.44",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 101.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072029,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T22:04:37.67",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 239.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072065,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T21:59:59.397",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 374.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072022,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T21:59:59.36",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 147.60,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072051,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T21:59:46.97",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 147.60,
+    "posCount": 1
+  },
+  {
+    "checkId": 159072050,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T21:58:56.353",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 40.50,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071705,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T21:52:04.213",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 251.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071719,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T21:50:44.91",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 574.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071380,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T21:50:06.327",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 574.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071331,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T21:50:04.96",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 119.10,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071379,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T21:49:25.937",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 513.95,
+    "posCount": 1
+  },
+  {
+    "checkId": 159070816,
+    "branch": "Тестовая аптека, филиал № 6",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T21:49:20.87",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 133.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071378,
+    "branch": "Тестовая аптека, филиал № 5",
+    "operation_type": "Реализация по б.к.",
+    "createDate": "2020-01-31T21:48:30.933",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 239.00,
+    "posCount": 1
+  },
+  {
+    "checkId": 159071316,
+    "branch": "Тестовая аптека, филиал № 9",
+    "operation_type": "Розничная реализация",
+    "createDate": "2020-01-31T21:48:16.973",
+    "sumQuantity": 1.00000,
+    "sumRoznWNDS": 78.50,
+    "posCount": 2
+  }
+]
