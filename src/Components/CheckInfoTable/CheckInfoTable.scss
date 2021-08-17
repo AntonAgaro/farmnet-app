@@ -1,0 +1,16 @@
+.table-info {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+  color: #262626;
+
+  th, td {
+    padding: 5px;
+    border: 1px solid black;
+    font-size: 1rem;
+    text-align: center;
+    cursor: pointer;
+    word-break: break-all;
+  }
+}
+

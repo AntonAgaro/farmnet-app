@@ -1,0 +1,24 @@
+.pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+
+.page-item {
+  height: 35px;
+  border-radius: 2px;
+  padding: 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  transition: background 0.3s ease;
+  border: none;
+  cursor: pointer;
+  background: #262626;
+  color: #fff;
+  
+  &--active {
+    background: brown;
+  }
+}
