@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/farmnet-app/static/css/main.53fa50b5.chunk.css",
-    "main.js": "/farmnet-app/static/js/main.8df3a756.chunk.js",
-    "main.js.map": "/farmnet-app/static/js/main.8df3a756.chunk.js.map",
+    "main.js": "/farmnet-app/static/js/main.02de61db.chunk.js",
+    "main.js.map": "/farmnet-app/static/js/main.02de61db.chunk.js.map",
     "runtime-main.js": "/farmnet-app/static/js/runtime-main.57e90aaa.js",
     "runtime-main.js.map": "/farmnet-app/static/js/runtime-main.57e90aaa.js.map",
     "static/js/2.46f691fb.chunk.js": "/farmnet-app/static/js/2.46f691fb.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.57e90aaa.js",
     "static/js/2.46f691fb.chunk.js",
     "static/css/main.53fa50b5.chunk.css",
-    "static/js/main.8df3a756.chunk.js"
+    "static/js/main.02de61db.chunk.js"
   ]
 }
