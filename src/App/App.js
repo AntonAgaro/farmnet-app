@@ -17,7 +17,7 @@ const App = () => {
   const [currentCheckInfo, setCurrentCheckInfo] = useState([]);
 
   useEffect(() => {
-    fetchData(process.env.PUBLIC_URL + '/tables/cheksWithId.json')
+    fetchData(process.env.PUBLIC_URL + '/tables/checksWithId.json')
       .then(res => setChecks(res));
     
     fetchData(process.env.PUBLIC_URL + '/tables/checkInfoWithId.json')

@@ -20,9 +20,9 @@ const ChecksTable = props => {
         {props.checks.map((item, index) => {
           const date = new Date(item.createDate);
           return (
-            <tr key={index} onClick={() => props.findCheckInfo(item.checkId)}>
+            <tr key={index} onClick={() => props.findCheckInfo(item.id)}>
               <td>{props.checkNumber + index + 1}</td>
-              <td>{item.checkId}</td>
+              <td>{item.id}</td>
               <td>{date.toLocaleString()}</td>
               <td>{item.branch}</td>
               <td>{item.operation_type}</td>
